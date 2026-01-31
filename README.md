@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Omar! 👋
 
-<!--
-**omar432-star/Omar432-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🚀 I'm a Python Developer in the making.
+- 🎓 Currently learning at **100 Days of Code**.
+- 🛠️ Building fun projects like games and calculators.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Language:** Python
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Progress
+- [x] Tip Calculator
+- [x]  Treasure Island 
+- [] Rock Paper Scissors(Coming Soon!)
